@@ -167,9 +167,9 @@
 							</div>
 							<br>
 							
-							<a href="images/zillow.jpg" class="image full fancybox"><img style="width: 100%;" src="images/zillow.jpg" /></a>
+							<a href="http://www.zillow.com/profile/KENNY-T-FASTAGENT/" class="image full"><img style="width: 100%;" src="images/zillow.jpg" /></a>
 							<br>
-							<a href="images/youtube.jpg" class="image full fancybox"><img style="width: 100%;" src="images/youtube.jpg" /></a>
+							<a href="http://www.youtube.com/channel/UCF9s0fFFZu9W0v6Z3VwyRIA" class="image full"><img style="width: 100%;" src="images/youtube.jpg" /></a>
 							<br>
 							<a href="http://www.redfin.com/real-estate-agents/kennyt?show=reviews" class="image full"><img style="width: 100%;" src="images/redfinreview.jpg" /></a>
 							<br>
