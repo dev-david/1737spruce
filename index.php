@@ -225,7 +225,7 @@
 								</div>
 							</div>
 							<br />
-							<a href="images/compdata.png" class="image full fancybox"><img style="width: 100%;" src="images/compdata.png" /></a>
+							<a href="http://maxebrdi.paragonrels.com/publink/default.aspx?GUID=f03b6f64-5593-4834-a140-ddac6fe11450&Report=Yes" class="image full"><img style="width: 100%;" src="images/compdata.png" /></a>
 						</div>
 					</section>
 			
