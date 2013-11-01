@@ -152,7 +152,7 @@
 										</header>
 									</article>
 									<article class="item">
-										<iframe class="image full" width="560" height="315" src="//www.youtube.com/embed/vPuHVIVMaz0" frameborder="0" allowfullscreen></iframe>
+										<iframe class="image full" width="560" height="315" src="//www.youtube.com/embed/aAs99g4kTMA" frameborder="0" allowfullscreen></iframe>
 										<header>
 											<h3>Video tours</h3>
 										</header>
